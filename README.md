@@ -1,4 +1,4 @@
-# Curious Developer in training 🤖
+# Curious Web3 Developer in Training 🤖
 
 Hi, I'm a developer based in Europe. 🇵🇹
 I have a tonne of interests and come from a more creative background and marketing, but diving deep into coding as it really fits who I am, and allows me to build and contribute on cool projects within Crypto.
