@@ -13,8 +13,8 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/henrywill
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=157286&color=20232a)
 ![](https://img.shields.io/badge/Code-JavaScript_(ES6+)-informational?style=flat&logo=JavaScript&logoColor=f7df1e&color=20232a)
 
-- 🔭 I’m currently working on a some cool Launch Scanner projects within DeFi. 
-- 🌱 I’m currently learning and finishing my Scrimba course in Javascript.
-- 👯 I’m looking to collaborate on more crypto or Web3 projects.
-- 🤔 I’m looking for help with how to build a front end app where users import a .csv and produces a text for them to copy and paste based upon predetermined parseing variables.
+- 🔭 I’m currently working on a some cool analysis projects within DeFi. 
+- 🌱 I’m learning more atm about React Native and building dapps.
+- 👯 I’m open to work on more projects in web3.
+- 🤔 I’m also looking for help with how to build a front end app where users import a .csv and produces a text for them to copy and paste based upon predetermined parseing variables.
 - 💬 Ask me about movement, second-brain, ecstatic dance
