@@ -1,6 +1,6 @@
 # Curious Web3 Developer in Training 🤖
 
-Hi, I'm self-taught a web developer based in Europe. 🇵🇹
+Hi, I'm self-taught a web developer based in Europe.
 
 I have a tonne of interest in techn and all things crypto. I come from a creative background and after getting the coding bug feel happy diving deep into developing my tech stach as a web dev working within Web3 and crypto.
 
